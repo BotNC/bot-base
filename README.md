@@ -18,3 +18,18 @@
     }
   };
   ```
+
+
+* Tokens  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  Set your token at `.env`.
+
+* Running  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  To run the bot, spin up a command line and enter `node .`  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  This will throw an error if the token is invalid.
+
+* Prefix  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  The default prefix is `!`
